@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "6277871326:AAERfXZ5Iwi2hEONla-u2cM3HPg3LZjj-cQ"
+TOKEN = "TOKEN"
 
 # Вопросы сгруппированы по темам
 QUESTIONS_BY_TOPIC = {
